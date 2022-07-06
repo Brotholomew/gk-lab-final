@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ozta2HPn5uyYeVKpNr/OjeA7C2pfR5BdGjowhNUP6VO7hGqKrbachELtv/sSjCRIRcBcjyie8H3GWl/IithySw==",
+  "success": true,
+  "projectFilePath": "D:\\Sync\\Synced\\Programy\\GK1\\gk-lab-final\\gk-lab-final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barto\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
